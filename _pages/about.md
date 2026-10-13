@@ -33,7 +33,7 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-My complete publication list can also be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications](/publications/) page.
+My complete publication list can also be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications]({{ site.url }}/publications/) page.
 
 Contact
 ======
