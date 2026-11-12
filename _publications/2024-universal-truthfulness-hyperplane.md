@@ -5,5 +5,6 @@ order: 3
 year: 2024
 venue: "EMNLP 2024"
 authors: "<strong>Junteng Liu</strong>, Shiqi Chen, Yu Cheng, Junxian He"
-code: "Universal_Truthfulness_Hyperplane (GitHub code repository)"
+code: true
+repository: "Universal_Truthfulness_Hyperplane"
 ---

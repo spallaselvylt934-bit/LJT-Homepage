@@ -5,5 +5,6 @@ order: 2
 year: 2025
 venue: "arXiv"
 authors: "<strong>Junteng Liu</strong>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He"
-code: "Vision4Chart (GitHub code repository)"
+code: true
+repository: "Vision4Chart"
 ---

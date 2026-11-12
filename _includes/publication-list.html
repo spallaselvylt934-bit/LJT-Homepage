@@ -4,8 +4,8 @@
     <li>
       <strong>{{ pub.title }}</strong><br />
       {{ pub.authors }}<br />
-      <em>{{ pub.venue }}, {{ pub.year }}</em>
-      {% if pub.code %}<br />Code: {{ pub.code }}{% endif %}
+      <em>{{ pub.venue }}{% if pub.venue == "arXiv" %}, {{ pub.year }}{% endif %}</em>
+      {% if pub.code %}<br />GitHub code repository{% if pub.repository %}: {{ pub.repository }}{% endif %}{% endif %}
     </li>
   {% endfor %}
 </ul>
