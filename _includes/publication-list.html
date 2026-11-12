@@ -1,0 +1,11 @@
+{% assign ordered_publications = site.publications | sort: "order" %}
+<ul class="publication-list">
+  {% for pub in ordered_publications %}
+    <li>
+      <strong>{{ pub.title }}</strong><br />
+      {{ pub.authors }}<br />
+      <em>{{ pub.venue }}, {{ pub.year }}</em>
+      {% if pub.code %}<br />Code: {{ pub.code }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
