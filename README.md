@@ -2,7 +2,7 @@
 
 Personal homepage of Junteng Liu.
 
-Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, advised by Professor Junxian He. His research focuses on natural language processing and machine learning.
+Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, advised by Professor Junxian He. Research focuses on natural language processing and machine learning.
 
 ## Contact
 
